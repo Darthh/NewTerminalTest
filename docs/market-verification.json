@@ -1,0 +1,16 @@
+{
+  "checks": [
+    "dashboard resize and keyboard reordering persist",
+    "four-widget limit and deliberately empty layout persist",
+    "dashboard adding and restore work",
+    "forward/backward chart measurement normalized and persists after release",
+    "chart click and range changes clear the measurement",
+    "SPY comparison and accessible interval measurement work",
+    "watchlist add, nullable quantity, duplicate prevention, remove and reload persistence",
+    "search and sector filtering work",
+    "alert rules persist and simulations deduplicate crossings without delivery claims",
+    "six market routes fit 390px without horizontal page overflow",
+    "no client hydration or runtime errors"
+  ],
+  "errors": []
+}

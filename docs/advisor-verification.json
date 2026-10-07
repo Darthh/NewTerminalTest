@@ -1,0 +1,31 @@
+{
+  "journeys": [
+    "Create client, edit, reload, and verify local persistence",
+    "Scheduled client review appears in Reviews",
+    "1440px CRM: no document overflow",
+    "Portfolio validation rejects 110% and saves a valid 70/30 allocation with linked client",
+    "1440px report builder: no document overflow",
+    "390px report builder: no document overflow",
+    "Create report, edit long content, paginate, reorder, hide, add page, save template, export PDF/CSV, and reopen saved report",
+    "Reuse saved report template",
+    "Create and save One Pager report",
+    "Create and save Comparison report",
+    "390px CRM: no document overflow"
+  ],
+  "downloads": [
+    "clients.csv",
+    "portfolio.csv",
+    "portfolio-review.pdf",
+    "report.csv"
+  ],
+  "errors": [],
+  "pdf": {
+    "pages": 7,
+    "title": "QA Portfolio Review",
+    "size": {
+      "width": 842,
+      "height": 595
+    }
+  },
+  "status": "passed"
+}

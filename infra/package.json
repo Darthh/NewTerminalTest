@@ -1,0 +1,7 @@
+{
+  "name": "luna-terminal-deployment-tools",
+  "private": true,
+  "type": "module",
+  "scripts": { "deploy": "sst deploy" },
+  "devDependencies": { "sst": "4.17.1", "@opennextjs/aws": "4.1.8" }
+}
